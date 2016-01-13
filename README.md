@@ -9,7 +9,7 @@ CSSREM
 
 ##### 安装
 
-* 下载本项目，比如：git clone https://github.com/flashlizi/cssrem
+* 下载本项目，比如：git clone https://github.com/gezg/cssrem
 * 进入packages目录：Sublime Text -> Preferences -> Browse Packages...
 * 复制下载的cssrem目录到刚才的packges目录里。
 * 重启Sublime Text。
